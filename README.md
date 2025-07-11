@@ -1,4 +1,4 @@
-🔐 Paper 3: Revolutionizing Network Security – Stacked Generalization for Malicious Traffic Detection
+🔐 Paper: Revolutionizing Network Security – Stacked Generalization for Malicious Traffic Detection
 📍 Published in: IEEE Conference Proceedings (Submitted)
 📊 Dataset Used: CIC-IDS2017 (2.8M labeled traffic records)
 
